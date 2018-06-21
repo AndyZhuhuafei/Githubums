@@ -1,0 +1,2 @@
+﻿paillier encryption
+c=(1+n)^m r^n mod n

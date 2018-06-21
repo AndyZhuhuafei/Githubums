@@ -1,0 +1,2 @@
+﻿elgamal encryption
+u=g^r, v=mh^r
